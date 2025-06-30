@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Certificados y claves privadas
+certs/
+*.pem
+*.key
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
